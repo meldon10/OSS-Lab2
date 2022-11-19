@@ -1,0 +1,197 @@
+{
+    "instance": {
+        "addressData": [
+            {
+                "communicationPreferences": {
+                    "nonVerbalCommunicationLanguage": {
+                        "code": "DE"
+                    }
+                },
+                "id": "00163e2c-7b39-1eea-8cc1-3429e12dd2a4",
+                "personPostalAddress": {
+                    "country": {
+                        "code": "DE"
+                    },
+                    "postBoxIsWithoutNumber": false,
+                    "town": {
+                        "name": "leimen"
+                    },
+                    "timeZone": {
+                        "code": "CET"
+                    },
+                    "postCode": "69181",
+                    "alternative": {}
+                },
+                "postalAddressType": "organizationalPostalAddress",
+                "postalAddressType": "personPostalAddress",
+                "usages": [
+                    {
+                        "isStandard": false,
+                        "usage": {
+                            "code": "XXDEFAULT"
+                        },
+                        "validFrom": "2020-01-08",
+                        "validTo": "9999-12-31"
+                    }
+                ],
+                "validFrom": "2020-01-08",
+                "validTo": "9999-12-31"
+            }
+        ],
+        "businessPartnerType": "person",
+        "isReleased": true,
+        "isNaturalPersonUnderTaxLaw": false,
+        "person": {
+            "nameDetails": {
+                "lastName": "QCD 0108_4 Contact",
+                "firstName": "ASTEST Contact",
+                "formOfAddress": {
+                    "code": "0002"
+                }
+            },
+            "gender": {
+                "code": "1"
+            },
+            "correspondenceLanguage": {
+                "code": "DE"
+            }
+        },
+        "meantToBeArchived": false,
+        "grouping": {
+            "code": "BP02"
+        },
+        "isBlocked": false,
+        "roles": [
+            {
+                "role": {
+                    "code": "BUP001"
+                },
+                "validFrom": "2020-01-08",
+                "validTo": "9999-12-31"
+            }
+        ],
+        "searchTerms": {
+            "searchTerm1": "AS"
+        },
+        "id": "00163e2c-7b39-1eea-8cc1-312e8a9cd2a4"
+    },
+    "localIds": [
+        {
+            "context": {
+                "application": "MDI",
+                "tenant": "ESCMDISYSTEM",
+                "type": "sap.odm.businesspartner.BusinessPartner",
+                "additionalContext": "sap.oitc.889"
+            },
+            "status": "active",
+            "localId": "00163e2c-7b39-1eea-8cc1-312e8a9cd2a4"
+        },
+        {
+            "context": {
+                "application": "MDI",
+                "tenant": "ESCMDISYSTEM",
+                "type": "sap.odm.businesspartner.BusinessPartner",
+                "additionalContext": "sap.oitc.888"
+            },
+            "status": "active",
+            "localId": "2252235"
+        },
+        {
+            "context": {
+                "application": "LOGSYS",
+                "tenant": "0LOALS1",
+                "type": "sap.odm.businesspartner.BusinessPartner",
+                "additionalContext": "sap.oitc.889"
+            },
+            "status": "active",
+            "localId": "00163e2c-7b39-1eea-8cc1-312e8a9cd2a4"
+        },
+        {
+            "context": {
+                "application": "LOGSYS",
+                "tenant": "0LOALS1",
+                "type": "sap.odm.businesspartner.BusinessPartner",
+                "additionalContext": "sap.oitc.888"
+            },
+            "status": "active",
+            "localId": "2252235"
+        }
+    ],
+    "event": "created",
+    "versionId": "4a8389a1-1690-4f49-9637-8d8fd88c097b",
+    "instance": {
+        "addressData": [
+            {
+                "communicationPreferences": {
+                    "nonVerbalCommunicationLanguage": {
+                        "code": "DE"
+                    }
+                },
+                "id": "00163e2c-7b39-1eea-8cc1-3429e12dd2a4",
+                "personPostalAddress": {
+                    "country": {
+                        "code": "DE"
+                    },
+                    "postBoxIsWithoutNumber": false,
+                    "town": {
+                        "name": "leimen"
+                    },
+                    "timeZone": {
+                        "code": "CET"
+                    },
+                    "postCode": "69181",
+                    "alternative": {}
+                },
+                "postalAddressType": "personPostalAddress",
+                "usages": [
+                    {
+                        "isStandard": false,
+                        "usage": {
+                            "code": "XXDEFAULT"
+                        },
+                        "validFrom": "2020-01-08",
+                        "validTo": "9999-12-31"
+                    }
+                ],
+                "validFrom": "2020-01-08",
+                "validTo": "9999-12-31"
+            }
+        ],
+        "businessPartnerType": "person",
+        "isReleased": true,
+        "isNaturalPersonUnderTaxLaw": false,
+        "person": {
+            "nameDetails": {
+                "lastName": "QCD 0108_4 Contact",
+                "firstName": "ASTEST Contact",
+                "formOfAddress": {
+                    "code": "0002"
+                }
+            },
+            "gender": {
+                "code": "1"
+            },
+            "correspondenceLanguage": {
+                "code": "DE"
+            }
+        },
+        "meantToBeArchived": false,
+        "grouping": {
+            "code": "BP02"
+        },
+        "isBlocked": false,
+        "roles": [
+            {
+                "role": {
+                    "code": "BUP001"
+                },
+                "validFrom": "2020-01-08",
+                "validTo": "9999-12-31"
+            }
+        ],
+        "searchTerms": {
+            "searchTerm1": "AS"
+        },
+        "id": "00163e2c-7b39-1eea-8cc1-312e8a9cd2a4"
+    }
+}
